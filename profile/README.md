@@ -1,3 +1,3 @@
-[![GitHub Release](https://img.shields.io/github/v/release/STRAYED-FATES/Forsaken?style=for-the-badge&logo=github&label=FORSAKEN&labelColor=black&color=gold)](https://github.com/STRAYED-FATES/Forsaken)
-
 [![Discord](https://img.shields.io/discord/1205872487158775890?style=for-the-badge&logo=discord&logoColor=white&label=DISCORD&labelColor=7289da&color=2c2f33)](https://discord.com/invite/HQ8Pqk8bUE)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Static Badge](https://img.shields.io/badge/Support%20me!-Kofi?style=for-the-badge&logo=Kofi&logoColor=white&label=Ko-fi&labelColor=FF5E5B&color=13C3FF)](https://ko-fi.com/terabuildsstuff)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Static Badge](https://img.shields.io/badge/-STRAYED%20FATES-LICENSE?style=for-the-badge&label=LICENSE&labelColor=white&color=white)](https://github.com/STRAYED-FATES/LICENSE?tab=License-1-ov-file)
+
+[![GitHub Release](https://img.shields.io/github/v/release/STRAYED-FATES/Forsaken?style=for-the-badge&logo=github&label=FORSAKEN&labelColor=black&color=gold)](https://github.com/STRAYED-FATES/Forsaken)
